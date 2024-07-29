@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nehavishwakarma7777@gmail.com**
 
-- 📄 My Resume [Neha Vishwakarma](https://drive.google.com/file/d/13SoAKyquSq6XYXG0rXMtXIeC7A9UgCY0/viewusp=sharing)
+- 📄 My Resume [Neha Vishwakarma](https://drive.google.com/file/d/13SoAKyquSq6XYXG0rXMtXIeC7A9UgCY0/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
