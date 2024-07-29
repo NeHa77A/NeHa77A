@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neha Vishwakarma</h1>
 <h3 align="center">Dedicated Learner in Data Science and Technology</h3>
 
-- 🌱 I’m currently learning **computer vision, Data Structure and Algorithm**
+- 🌱 I’m currently learning **GenAI, Data Structure and Algorithm**
 
 - 📝 I write articles on [https://www.analyticsvidhya.com/blog/author/neha4847939/](https://www.analyticsvidhya.com/blog/author/neha4847939/)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nehavishwakarma7777@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1pY05k0YCZ5VuktnF2Tig7FdG-Q-4Q3TO/view?usp=drive_link](https://drive.google.com/file/d/1pY05k0YCZ5VuktnF2Tig7FdG-Q-4Q3TO/view?usp=drive_link)
+- 📄 My Resume [Neha Vishwakarma](https://drive.google.com/file/d/13SoAKyquSq6XYXG0rXMtXIeC7A9UgCY0/viewusp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
